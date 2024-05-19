@@ -19,4 +19,4 @@ Esto mostrará un arreglo de objetos de Javascript tal como:
     color_del_animal: 'blanco',
     enfermedad: 'otitis'
     }
-]
+]"# veterinaria" 
